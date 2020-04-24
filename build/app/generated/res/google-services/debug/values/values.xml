@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">131338054332-ict6d9udtj3ukmuo7k7t9b01s4sj4mcf.apps.googleusercontent.com</string>
+    <string name="firebase_database_url" translatable="false">https://fluttermessenger-a1113.firebaseio.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">131338054332</string>
+    <string name="google_api_key" translatable="false">AIzaSyAZfK1vTacMS1S8XFo2bAJ0SdxDCfnIqnY</string>
+    <string name="google_app_id" translatable="false">1:131338054332:android:27010993e0bfd9973efeb9</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAZfK1vTacMS1S8XFo2bAJ0SdxDCfnIqnY</string>
+    <string name="google_storage_bucket" translatable="false">fluttermessenger-a1113.appspot.com</string>
+    <string name="project_id" translatable="false">fluttermessenger-a1113</string>
+</resources>
